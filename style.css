@@ -1,0 +1,86 @@
+
+
+.logo {
+  width: 22rem;
+}
+
+/* .login-page{
+    height: 100vh;
+} */
+
+/* background-color: #0F206C; */
+.f-w8 {
+  font-weight: 800;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 14px;
+}
+
+.card .card-title {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 20px;
+  margin-bottom: 20px;
+  margin-left: 0;
+}
+
+.card .card-title i {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 2rem;
+  color: #0F206C;
+  border: 2px solid #0F206C;
+  padding: 2px 2px 0px 2px;
+  border-radius: 4px;
+  margin-right: 10px;
+}
+
+.card .card-title span {
+  vertical-align: middle;
+}
+
+.footer {
+  background-color: #0F206C;
+  color: white;
+  padding: 20px 0;
+}
+
+.footer-links a,
+.social-media a,
+.footer-text {
+  color: white;
+  margin: 0 10px;
+}
+
+.social-link {
+  display: inline-block;
+  margin: 0 5px;
+}
+
+.social-media {
+  padding: 10px 0;
+}
+
+.social-media img {
+  width: 20px;
+  height: auto;
+  filter: invert(100%);
+}
+
+.footer-link:hover,
+.social-link:hover {
+  color: #f9f9f9;
+  text-decoration: none;
+}
+
+.pass-eye {
+  background: #fff;
+  color: rgb(76, 77, 78);
+}
+
+.input-group-text {
+  background-color: #0F206C;
+  color: #fff;
+}
